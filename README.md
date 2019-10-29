@@ -1,5 +1,5 @@
 # Predict Natural Disasters
-
+## Tech. used --> Weather API, Twitter API, Google Maps API, machine learning, deep learning and much more.
 ## 1. Earthquakes
 * For predicting the Earthquakes we first of all collect the data of sound waves that that are emitted during or just before the time of earthquakes from histroy.
 * then we fit normal sound and sounds that are emitted during earthqakes into dataset.
